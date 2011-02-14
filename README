@@ -1,0 +1,73 @@
+-------------------------------------------------------------
+
+
+jaGOF - John Conway's Game of Life
+release: 0.1.0
+
+Copyright (C) 2011 Luca Amore <luca.amore at gmail.com>
+
+relased: 02/14/2011
+
+
+-------------------------------------------------------------
+
+GOF is based on:
+
+python-pygame - SDL bindings for games development in Python
+
+-------------------------------------------------------------
+LICENSE
+
+jaGOF is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+jaGOF is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with GOF.  If not, see <http://www.gnu.org/licenses/>.
+
+Luca Amore
+luca.amore at gmail.com
+http://www.lucaamore.com
+
+-------------------------------------------------------------
+RESOURCES
+
+for more information about Conway's Game of Life, visit:
+
+http://www.conwaylife.com/wiki
+http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+-------------------------------------------------------------
+USAGE
+
+./jaGof
+
+or
+
+./jaGof <filename>
+
+to read seed file with initial pattern in .cell format
+
+-------------------------------------------------------------
+CONFIGURATION FILE
+
+life.conf
+
+-------------------------------------------------------------
+SEED PATTERNS
+
+In the dir seeds there are 400+ seed files downloaded from:
+http://www.bitstorm.org/gameoflife/lexicon/
+thanks to pylife project: 
+https://github.com/durden/pylife
+
+You can found interesting and seed patterns here:
+http://www.conwaylife.com/wiki
+
+Have fun!
