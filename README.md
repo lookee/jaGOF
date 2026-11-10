@@ -1,5 +1,9 @@
 # jaGOF
 
+<p align="center">
+  <img src="assets/jagof-cover-white-artistic.png" alt="Artistic interpretation of Conway's Game of Life: a suspended spiral of white paper cells with vermilion accents." width="480">
+</p>
+
 **Just another Conway's Game of Life**, written in Python with Pygame.
 
 Draw live cells, advance one generation at a time, or watch a seed pattern evolve.
